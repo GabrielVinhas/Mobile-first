@@ -1,6 +1,6 @@
 # Projeto Mobile First
 
-<img height="300px" src="https://i.imgur.com/3l8Hcbo.gif">
+<img src="https://i.imgur.com/3l8Hcbo.gif">
 
 Projeto original do Figma: https://www.figma.com/file/UiVoCOhCytPwBh6GJ0e0UP/Stage-03---Mobile-First-(Copy)
 
